@@ -1,0 +1,85 @@
+body {
+    background-image: url("something.jpg");
+    background-color: #cccc;
+   }
+.co{
+    padding: 10px;
+  font-size: 15px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+}
+.co:hover {
+  opacity: 0.7;
+}
+.fa-facebook{
+    background: #3B5998;
+    color: white;
+    position: relative;
+    left: 1500px;
+    bottom: 50px;
+}
+.fa-instagram{
+    background: #125688;
+    color: white;
+    position: relative;
+    left: 1500px;
+    bottom: 50px;
+
+}
+.fa-youtube{
+    background: #bb0000;
+    color: white;
+    position: relative;
+    left: 1500px;
+    bottom: 50px;
+}
+.title{
+    background: transparent;
+    color: whitesmoke;
+    -webkit-text-stroke: 2px black;
+    font-size: 40px;
+    font-family: cursive
+}
+.pfp{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+    
+  }
+.pc{
+    border-radius: 12px;
+    padding: 5px;
+}
+.h2{
+    font-size: 40px;
+    color: transparent;
+    -webkit-text-stroke: 2px black;
+    font-family: cursive;
+}
+.h3{
+    font-size: 30px;
+    color: firebrick;
+    -webkit-text-stroke: 2px black;
+    font-family: cursive;
+}
+.mail{
+   font-size: large;
+   font-family: sans-serif;
+   right: 500px;
+}
+.p{
+    font-family: sans-serif;
+    color: white;
+    -webkit-text-stroke: black;
+}
+.top{
+    border-style: solid;
+    border-color: gray;
+}
+.text{
+border: 2px solid black;
+border-radius: 12px;
+    padding: 5px;
+    background-color: firebrick;
+}
